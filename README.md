@@ -79,4 +79,4 @@ Web-based platform to classify messages as spam or legitimate using NLP techniqu
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santosh02411) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoshmadannavar@gmail.com)  
 
-⚡ *“Code. Learn. Repeat.”* 🚀
+⚡ *“Code. Learn. Repeat.”* 🚀 
