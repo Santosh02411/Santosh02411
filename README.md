@@ -17,9 +17,10 @@
 
 ## 🚀 My Projects  
 
-### 🔢 Visual Compute  
-AI system that solves numerical, mathematical, and science problems written on a whiteboard or uploaded as images.  
-**Tech:** Python, OpenCV, TensorFlow, PyTorch, NumPy, Pandas  
+### 🧮 [Formula Forge](https://github.com/Santosh02411/Formula-Forge)  
+An AI-powered web app that can solve **mathematics, science, and engineering problems** with step-by-step solutions.  
+**Tech:** React, TypeScript, Vite, Google Gemini API, Node.js  
+ 
 
 ---
 
