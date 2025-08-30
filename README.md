@@ -23,7 +23,12 @@ An AI-powered web app that can solve **mathematics, science, and engineering pro
  
 
 ---
+### [🏥 Quick Aid - AI Medical Assistant](https://github.com/Santosh02411/Quick-Aid)
+AI-powered medical assistant for injury detection and health analysis. Analyze injury images, check symptoms, and get health guidance.  
+**Tech:** Python, Flask, OpenCV, Machine Learning
 
+
+---
 ### 🌱 Krushi: Crop Selection & Advisory System  
 AI-based platform to guide farmers on crop selection, market trends, and water management.  
 **Tech:** Python, scikit-learn, Flask/Django, Pandas, NumPy  
