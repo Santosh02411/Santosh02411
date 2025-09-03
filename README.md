@@ -29,7 +29,7 @@ AI-powered medical assistant for injury detection and health analysis. Analyze i
 
 
 ---
-### 🌱 Krushi: Crop Selection & Advisory System  
+### [🌱 Krushi: Crop Selection & Advisory System](https://github.com/Santosh02411/krushi)
 AI-based platform to guide farmers on crop selection, market trends, and water management.  
 **Tech:** Python, scikit-learn, Flask/Django, Pandas, NumPy  
 
