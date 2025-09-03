@@ -35,7 +35,7 @@ AI-based platform to guide farmers on crop selection, market trends, and water m
 
 ---
 
-### 🛡️ Malware Detection Using Machine Learning  
+### [🛡️ Malware Detection Using Machine Learning](https://github.com/Santosh02411/Malware-detection)  
 Machine learning model to detect malware with Explainable AI for better cybersecurity awareness.  
 **Tech:** Python, scikit-learn, TensorFlow, Pandas, NumPy  
 
