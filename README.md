@@ -17,6 +17,11 @@
 
 ## 🚀 My Projects  
 
+### [🛡️ Malware Detection Using Machine Learning](https://github.com/Santosh02411/Malware-detection)  
+Machine learning model to detect malware with Explainable AI for better cybersecurity awareness.  
+**Tech:** Python, scikit-learn, TensorFlow, Pandas, NumPy  
+
+---
 ### 🧮 [Formula Forge](https://github.com/Santosh02411/Formula-Forge)  
 An AI-powered web app that can solve **mathematics, science, and engineering problems** with step-by-step solutions.  
 **Tech:** React, TypeScript, Vite, Google Gemini API, Node.js  
@@ -35,11 +40,7 @@ AI-based platform to guide farmers on crop selection, market trends, and water m
 
 ---
 
-### [🛡️ Malware Detection Using Machine Learning](https://github.com/Santosh02411/Malware-detection)  
-Machine learning model to detect malware with Explainable AI for better cybersecurity awareness.  
-**Tech:** Python, scikit-learn, TensorFlow, Pandas, NumPy  
 
----
 
 ### ✉️ Spam Detection Website  
 Web-based platform to classify messages as spam or legitimate using NLP techniques.  
