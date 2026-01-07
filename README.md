@@ -19,7 +19,7 @@
 
 ### [🛡️ Malware Detection Using Machine Learning](https://github.com/Santosh02411/Malware-detection) [Major]
 Machine learning model to detect malware with Explainable AI for better cybersecurity awareness.  
-**Tech:** Python, scikit-learn, Flask, Pandas, NumPy         ML-model : XGBoost
+**Tech:** Python, scikit-learn, Flask, Pandas, NumPy         ML-model : XGBoost , Random Forest
 
 ---
 ### 🧮 [Formula Forge](https://github.com/Santosh02411/Formula-Forge)  
