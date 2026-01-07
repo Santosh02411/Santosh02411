@@ -30,7 +30,7 @@ An AI-powered web app that can solve **mathematics, science, and engineering pro
 ---
 ### [🏥 Quick Aid - AI Medical Assistant](https://github.com/Santosh02411/Quick-Aid)
 AI-powered medical assistant for injury detection and health analysis. Analyze injury images, check symptoms, and get health guidance.  
-**Tech:** Python, Flask, OpenCV, Machine Learning
+**Tech:** Python, Flask, OpenCV, HTML, CSS, Javascript, Machine Learning
 
 
 ---
