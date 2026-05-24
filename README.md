@@ -17,34 +17,43 @@
 
 ## 🚀 My Projects  
 
-### [🛡️ Malware Detection Using Machine Learning](https://github.com/Santosh02411/Malware-detection) [Major]
+## 🚀 Major Projects  
+
+### ❄️ [Cold Weather EV Range Degradation Modeler](https://github.com/Santosh02411/cold_weather_EV_range_degradation) [Major]  
+AI & Machine Learning powered web application that predicts Electric Vehicle (EV) range degradation in cold weather conditions using weather analysis and ML algorithms.  
+**Tech:** Python, Flask, Scikit-learn, XGBoost, SHAP, Pandas, NumPy, HTML, CSS, JavaScript  
+
+---
+
+### 📢 [Social Media Ads Platform](https://github.com/Santosh02411/social-media-ads-platform) [Major]  
+Unified social media advertising dashboard to publish and schedule ads across Facebook, Instagram, Twitter/X, LinkedIn, TikTok, and Pinterest from a single platform.  
+**Tech:** Python, Flask, HTML, CSS, JavaScript, REST APIs, OAuth, SQLite  
+
+---
+
+### 🛡️ [Malware Detection Using Machine Learning](https://github.com/Santosh02411/Malware-detection) [Major]  
 Machine learning model to detect malware with Explainable AI for better cybersecurity awareness.  
-**Tech:** Python, scikit-learn, Flask, Pandas, NumPy         ML-model : XGBoost , Random Forest
+**Tech:** Python, Scikit-learn, Flask, Pandas, NumPy, XGBoost, Random Forest  
 
 ---
-### 🧮 [Formula Forge](https://github.com/Santosh02411/Formula-Forge)  
-An AI-powered web app that can solve **mathematics, science, and engineering problems** with step-by-step solutions.  
+
+### 🧮 [Formula Forge](https://github.com/Santosh02411/Formula-Forge) [Major]  
+AI-powered web application that solves mathematics, science, and engineering problems with step-by-step solutions.  
 **Tech:** React, TypeScript, Vite, Google Gemini API, Node.js  
- 
-
----
-### [🏥 Quick Aid - AI Medical Assistant](https://github.com/Santosh02411/Quick-Aid)
-AI-powered medical assistant for injury detection and health analysis. Analyze injury images, check symptoms, and get health guidance.  
-**Tech:** Python, Flask, OpenCV, HTML, CSS, Javascript, Machine Learning
-
-
----
-### [🌱 Krushi: Crop Selection & Advisory System](https://github.com/Santosh02411/krushi)
-AI-based platform to guide farmers on crop selection, market trends, and water management.  
-**Tech:** Python,HTML, CSS, scikit-learn, Flask, Pandas, NumPy  
 
 ---
 
+# 🚀 Mini Projects  
 
+### 🏥 [Quick Aid - AI Medical Assistant](https://github.com/Santosh02411/Quick-Aid)  
+AI-powered medical assistant for injury detection and health analysis using computer vision and machine learning.  
+**Tech:** Python, Flask, OpenCV, HTML, CSS, JavaScript, Machine Learning  
 
-### ✉️ Spam Detection Website  
-Web-based platform to classify messages as spam or legitimate using NLP techniques.  
-**Tech:** Python, scikit-learn, Flask/Django, Pandas, NumPy  
+---
+
+### 💳 Fraud Detection Website  
+Web-based platform to identify fraudulent transactions using machine learning and data analysis techniques.  
+**Tech:** Python, Scikit-learn, Flask, Pandas, NumPy, SQLite  
 
 ---
 
