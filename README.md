@@ -19,25 +19,25 @@
 
 ## 🚀 Major Projects  
 
-### ❄️ [Cold Weather EV Range Degradation Modeler](https://github.com/Santosh02411/cold_weather_EV_range_degradation) [Major]  
+### ❄️ [Cold Weather EV Range Degradation Modeler](https://github.com/Santosh02411/cold_weather_EV_range_degradation)  
 AI & Machine Learning powered web application that predicts Electric Vehicle (EV) range degradation in cold weather conditions using weather analysis and ML algorithms.  
 **Tech:** Python, Flask, Scikit-learn, XGBoost, SHAP, Pandas, NumPy, HTML, CSS, JavaScript  
 
 ---
 
-### 📢 [Social Media Ads Platform](https://github.com/Santosh02411/social-media-ads-platform) [Major]  
+### 📢 [Social Media Ads Platform](https://github.com/Santosh02411/social-media-ads-platform)  
 Unified social media advertising dashboard to publish and schedule ads across Facebook, Instagram, Twitter/X, LinkedIn, TikTok, and Pinterest from a single platform.  
 **Tech:** Python, Flask, HTML, CSS, JavaScript, REST APIs, OAuth, SQLite  
 
 ---
 
-### 🛡️ [Malware Detection Using Machine Learning](https://github.com/Santosh02411/Malware-detection) [Major]  
+### 🛡️ [Malware Detection Using Machine Learning](https://github.com/Santosh02411/Malware-detection)  
 Machine learning model to detect malware with Explainable AI for better cybersecurity awareness.  
 **Tech:** Python, Scikit-learn, Flask, Pandas, NumPy, XGBoost, Random Forest  
 
 ---
 
-### 🧮 [Formula Forge](https://github.com/Santosh02411/Formula-Forge) [Major]  
+### 🧮 [Formula Forge](https://github.com/Santosh02411/Formula-Forge) 
 AI-powered web application that solves mathematics, science, and engineering problems with step-by-step solutions.  
 **Tech:** React, TypeScript, Vite, Google Gemini API, Node.js  
 
