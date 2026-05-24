@@ -56,8 +56,11 @@ Web-based platform to identify fraudulent transactions using machine learning an
 **Tech:** Python, Scikit-learn, Flask, Pandas, NumPy, SQLite  
 
 ---
-
+### [🌱 Krushi: Crop Selection & Advisory System](https://github.com/Santosh02411/krushi)
+AI-based platform to guide farmers on crop selection, market trends, and water management.  
+**Tech:** Python,HTML, CSS, scikit-learn, Flask, Pandas, NumPy  
 ## 🛠️ Skills & Tools  
+---
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
