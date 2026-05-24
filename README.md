@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 My Projects  
+## 🚀 MY PROJECTS : 
 
 ## 🚀 Major Projects  
 
