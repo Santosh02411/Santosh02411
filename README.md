@@ -51,7 +51,7 @@ AI-powered medical assistant for injury detection and health analysis using comp
 
 ---
 
-### 💳 Fraud Detection Website  
+### 💳 [Fraud Detection Website](https://github.com/Santosh02411/fraudguard)  
 Web-based platform to identify fraudulent transactions using machine learning and data analysis techniques.  
 **Tech:** Python, Scikit-learn, Flask, Pandas, NumPy, SQLite  
 
