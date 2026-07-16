@@ -298,7 +298,22 @@ Add the provided snake.yml to .github/workflows/, let it run once, then uncommen
 
 
 ## 📫 Let's Connect!
+<div align="center">
 
+<a href="https://www.linkedin.com/in/santosh-madannavar-3ba5a7261/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" style="vertical-align:middle"/></a>
+<a href="https://www.linkedin.com/in/santosh-madannavar-3ba5a7261/"><img src="https://img.shields.io/badge/LinkedIn-Santosh%20Madannavar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="48" style="vertical-align:middle"/></a>
+
+<br/><br/>
+
+<a href="https://github.com/Santosh02411"><img src="https://skillicons.dev/icons?i=github" height="48" style="vertical-align:middle"/></a>
+<a href="https://github.com/Santosh02411"><img src="https://img.shields.io/badge/GitHub-Santosh02411-181717?style=for-the-badge&logo=github&logoColor=white" height="48" style="vertical-align:middle"/></a>
+
+<br/><br/>
+
+<a href="mailto:santoshmadannavar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" style="vertical-align:middle"/></a>
+<a href="mailto:santoshmadannavar@gmail.com"><img src="https://img.shields.io/badge/Email-santoshmadannavar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="48" style="vertical-align:middle"/></a>
+
+</div>
 
 
 <div align="center">
