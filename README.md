@@ -277,7 +277,7 @@ class Santosh:
 </div>
 
 <details>
-<summary align="center"><b>📅 Yearly Activity — click to expand</b></summary>
+<summary align="center"><b>📅 last few months Activity — click to expand</b></summary>
 <br/>
 
 <div align="center">
