@@ -281,12 +281,12 @@ class Santosh:
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santosh02411&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true&days=100" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santosh02411&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true&days=90" />
 </div>
 
 </details>
 
-## 📫 Let's Connect!
+
 
 <!--
 🐍 Bonus (real animated motion): a moving contribution "snake"
@@ -297,6 +297,7 @@ Add the provided snake.yml to .github/workflows/, let it run once, then uncommen
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Santosh02411&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
+
 ## 📫 Let's Connect!
 
 
