@@ -16,68 +16,52 @@
 
 <br/>
 
-## 👋 A bit about how I actually think
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Most "About Me" sections list buzzwords. Here's the real version:
+### 👋 About Me
 
-I don't pick a project because it's trendy — I pick it because something around me is inefficient. Farmers I know struggle to choose what to plant each season, so I built a crop-advisory tool. EV range anxiety in cold climates is a real, measurable data problem, so I modeled it. Malware detection tools are usually black boxes, so I made mine explainable. That's the thread running through everything below: **find a real gap → model it → ship it as something people can actually click on**, not just a Jupyter notebook that lives and dies on my laptop.
-
-I'm graduating in 2026 and actively looking for **Full-Stack / Backend / SDE roles** where I can do exactly that — take an ambiguous problem, build the data pipeline *and* the product around it.
+I don't build things because they're trendy — I build them because something around me is inefficient. That's the thread running through every project below: **find a real gap → model it → ship it as something people can actually click on.**
 
 ```python
 class Santosh:
     def __init__(self):
-        self.role      = "Final Year CSE @ Maratha Mandal's Engineering College, Belagavi"
-        self.builds    = "end-to-end — model AND the product wrapped around it"
-        self.stack     = ["Python", "Flask", "Django", "React", "TensorFlow", "Scikit-learn"]
-        self.obsession = "Explainable AI — I distrust models I can't justify to a user"
-        self.status    = "🟢 open to Full-Stack / Backend / SDE opportunities"
+        self.name     = "Santosh Suresh Madannavar"
+        self.role     = "Final Year CSE Student @ MMEC Belagavi"
+        self.passion  = ["AI/ML", "Deep Learning", "Real-world Problem Solving"]
+        self.stack    = ["Python", "Flask", "Django", "React", "Scikit-learn", "TensorFlow"]
+        self.focus    = "AI for Agriculture, Security & Automation"
+        self.status   = "🟢 open to Full-Stack / Backend / SDE roles"
+        self.email    = "santoshmadannavar@gmail.com"
 
-    def what_i_look_for(self):
-        return "Teams solving problems with visible, measurable real-world impact"
+    def motto(self):
+        return "Code. Learn. Repeat. 🚀"
 ```
 
----
+- 🎓 **B.E. CSE** at Maratha Mandal's Engineering College, Belagavi &nbsp;·&nbsp; Class of 2026
+- 🤖 Building AI models with **TensorFlow, Scikit-learn & XGBoost**
+- 🔍 Obsessed with **Explainable AI (SHAP)** — I don't trust a model I can't explain
+- 🌐 Shipping full-stack products via **Flask, Django & React**, not just notebooks
+- 📈 Currently building in **AI for Agriculture, Cybersecurity & EV**
+- 💬 Ask me about: **ML pipelines, Flask APIs, Computer Vision**
 
-## 🧭 How I work
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🔍 Start with the data**
-I don't reach for a model before understanding the data's quirks, gaps, and biases. Half my "AI" projects are really data engineering with a model on top.
-
-</td>
-<td width="33%" valign="top">
-
-**🧪 Make it explainable**
-If I can't explain *why* a model made a decision, I don't trust it in production. SHAP shows up in almost everything I ship.
-
-</td>
-<td width="33%" valign="top">
-
-**🚀 Ship the whole thing**
-A model in a notebook helps no one. I wrap it in Flask/Django + a real frontend so someone other than me can use it.
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-## 🚀 Featured Work — the "why" behind each one
+## 🚀 Featured Projects
 
 <details open>
 <summary><b>❄️ Cold Weather EV Range Degradation Modeler</b></summary>
 <br>
 
-**The problem:** EV owners in cold climates routinely see 20–40% real-world range loss that manufacturer estimates don't account for, which fuels range anxiety and slows EV adoption.
+Predicts real-world EV range loss in cold weather — because manufacturer estimates ignore it, and that gap fuels range anxiety. Every prediction comes with a SHAP breakdown of *why*, not just a number.
 
-**What I built:** A web app that ingests weather data and models expected range degradation using gradient-boosted trees, with SHAP explanations so a driver can see *which* factors (temperature, wind, battery age) are actually hurting their range — not just a number.
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-black?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-`XGBoost` `Scikit-learn` `SHAP` `Flask` `Pandas/NumPy`
-&nbsp;&nbsp;[**→ View Repo**](https://github.com/Santosh02411/cold_weather_EV_range_degradation)
+**[→ View Repo](https://github.com/Santosh02411/cold_weather_EV_range_degradation)**
 
 </details>
 
@@ -85,12 +69,13 @@ A model in a notebook helps no one. I wrap it in Flask/Django + a real frontend 
 <summary><b>🌱 Krushi — AI Crop Advisory for Farmers</b></summary>
 <br>
 
-**The problem:** Small-scale farmers often choose crops based on tradition or guesswork, not soil/weather data, leading to avoidable yield loss.
+Recommends crops from soil & climate data instead of guesswork — built so a farmer, not a data scientist, can actually use it.
 
-**What I built:** A Flask-based advisory platform that recommends crops using soil and climate inputs, aimed at being usable by someone without a data science background.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-`Python` `Flask` `Scikit-learn` `Pandas`
-&nbsp;&nbsp;[**→ View Repo**](https://github.com/Santosh02411/krushi)
+**[→ View Repo](https://github.com/Santosh02411/krushi)**
 
 </details>
 
@@ -98,12 +83,13 @@ A model in a notebook helps no one. I wrap it in Flask/Django + a real frontend 
 <summary><b>🛡️ Explainable Malware Detection</b></summary>
 <br>
 
-**The problem:** Most ML-based malware detectors are black boxes — flagging a file as malicious without telling a security analyst *why*, which slows down triage.
+Most ML malware detectors are black boxes. Mine pairs XGBoost/Random Forest with SHAP so every flag comes with a human-readable reason.
 
-**What I built:** A detection model using XGBoost/Random Forest, paired with SHAP so every flag comes with a human-readable reason, cutting the "why did it flag this" investigation time.
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-black?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-`XGBoost` `Random Forest` `SHAP` `Flask`
-&nbsp;&nbsp;[**→ View Repo**](https://github.com/Santosh02411/Malware-detection)
+**[→ View Repo](https://github.com/Santosh02411/Malware-detection)**
 
 </details>
 
@@ -111,12 +97,13 @@ A model in a notebook helps no one. I wrap it in Flask/Django + a real frontend 
 <summary><b>🧮 Formula Forge — AI Problem Solver</b></summary>
 <br>
 
-**The problem:** Students often get an answer from AI tools but not the reasoning, which doesn't actually help them learn.
+Walks through math/science/engineering problems step-by-step using the Gemini API, instead of just spitting out a final answer.
 
-**What I built:** A React + TypeScript app powered by the Gemini API that walks through math/science/engineering problems step-by-step instead of just spitting out a final answer.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-`React` `TypeScript` `Vite` `Node.js` `Gemini API`
-&nbsp;&nbsp;[**→ View Repo**](https://github.com/Santosh02411/Formula-Forge)
+**[→ View Repo](https://github.com/Santosh02411/Formula-Forge)**
 
 </details>
 
@@ -124,48 +111,60 @@ A model in a notebook helps no one. I wrap it in Flask/Django + a real frontend 
 <summary><b>📢 Social Media Ads Platform</b></summary>
 <br>
 
-**The problem:** Managing ad campaigns across 6 different platforms means 6 different dashboards and logins.
+One dashboard to publish & schedule ads across Facebook, Instagram, X, LinkedIn, TikTok & Pinterest — instead of six separate logins.
 
-**What I built:** A unified dashboard to publish and schedule ads across Facebook, Instagram, X, LinkedIn, TikTok & Pinterest from one place, using OAuth to connect each account securely.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=flat-square&logo=auth0&logoColor=white)
 
-`Python` `Flask` `OAuth` `REST APIs` `SQLite`
-&nbsp;&nbsp;[**→ View Repo**](https://github.com/Santosh02411/social-media-ads-platform)
+**[→ View Repo](https://github.com/Santosh02411/social-media-ads-platform)**
 
 </details>
 
-### 🌱 Smaller builds worth a look
+### 🌱 Mini Projects
 
-| Project | The gap it fills | Stack |
-|---|---|---|
-| 🏥 [**Quick Aid**](https://github.com/Santosh02411/Quick-Aid) | Real-time injury detection when medical help isn't immediately reachable | Python, Flask, OpenCV |
-| 💳 [**FraudGuard**](https://github.com/Santosh02411/fraudguard) | Flags suspicious transactions before they're approved, not after | Scikit-learn, Flask, SQLite |
-
----
-
-## 🧰 Stack — by how much I actually use it, not how it looks in a badge row
-
-| Area | Tools | Comfort |
-|---|---|:---:|
-| **Backend** | Flask · Django · REST APIs | ●●●●● |
-| **AI / ML** | Scikit-learn · XGBoost · SHAP | ●●●●● |
-| **Frontend** | React · JavaScript/TypeScript | ●●●●○ |
-| **Deep Learning** | TensorFlow | ●●●○○ |
-| **Data** | Pandas · NumPy · Matplotlib | ●●●●● |
-| **Languages** | Python · C · C++ · SQL | ●●●●● |
-| **Databases** | MySQL · SQLite | ●●●●○ |
-| **Tooling** | Git · GitHub Actions · VS Code | ●●●●○ |
+| Project | What it solves |
+|---|---|
+| 🏥 [**Quick Aid**](https://github.com/Santosh02411/Quick-Aid) | Real-time injury detection via computer vision |
+| 💳 [**FraudGuard**](https://github.com/Santosh02411/fraudguard) | Flags suspicious transactions before approval |
 
 ---
 
-## 🗺️ What I'm building toward next
+## 🛠️ Tech Stack & Tools
 
-- [ ] Get comfortable shipping production-grade FastAPI services, not just Flask prototypes
-- [ ] Go deeper on system design — the gap between "it runs on my laptop" and "it survives real traffic"
-- [ ] Contribute to an open-source ML or dev-tools project (actively looking — reach out if you know one worth joining)
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,html,css,ts&theme=dark" />
+
+**AI / ML / Deep Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,numpy,pandas&theme=dark" />
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white" height="47"/>
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/SHAP-1a1a1a?style=for-the-badge" height="47"/>
+
+**Frameworks & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,django,react,mysql,sqlite&theme=dark" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,gcp&theme=dark" />
+
+</div>
 
 ---
 
-## 📊 By the Numbers
+## 🗺️ Building Toward
+
+- [ ] Ship production-grade **FastAPI** services, not just Flask prototypes
+- [ ] Go deeper on **system design** — the gap between "runs on my laptop" and "survives real traffic"
+- [ ] Contribute to an **open-source** ML or dev-tools project
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santosh02411&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
@@ -181,9 +180,9 @@ A model in a notebook helps no one. I wrap it in Flask/Django + a real frontend 
 </div>
 
 <!--
-Want a full year contribution "snake" like this: https://github.com/Platane/snk
-Add the workflow below as .github/workflows/snake.yml, run it once, then embed:
-<img src="https://raw.githubusercontent.com/Santosh02411/Santosh02411/output/github-contribution-grid-snake-dark.svg" />
+Animated contribution "snake" (real, moving animation): https://github.com/Platane/snk
+Add snake.yml (provided separately) to .github/workflows/, let it run once, then uncomment:
+<div align="center"><img src="https://raw.githubusercontent.com/Santosh02411/Santosh02411/output/github-contribution-grid-snake-dark.svg" /></div>
 -->
 
 <div align="center">
@@ -192,9 +191,7 @@ Add the workflow below as .github/workflows/snake.yml, run it once, then embed:
 
 ---
 
-## 📫 Let's build something
-
-I'm most interested in conversations about **Full-Stack / Backend / SDE roles**, open-source collaboration, or genuinely hard data problems.
+## 📫 Let's Connect
 
 <div align="center">
 
