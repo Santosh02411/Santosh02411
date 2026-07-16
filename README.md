@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Santosh%20Suresh%20Madannavar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&descColor=a78bfa" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Final-Year+CSE+Student+%40+MMEC+Belagavi;AI+%2F+ML+%2F+Deep+Learning+Enthusiast;Building+Real-World+AI+Solutions;Flask+%C2%B7+Django+%C2%B7+React+%C2%B7+TensorFlow;Open+to+Full-Stack+%2F+Backend+%2F+SDE+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=CSE+Graduate+%40+MMEC+Belagavi+(2026);AI+%2F+ML+%2F+Generative+AI+Engineer;Building+Real-World%2C+Production-Grade+AI;Flask+%C2%B7+Django+%C2%B7+React+%C2%B7+LangChain+%C2%B7+XGBoost;Open+to+SDE+%2F+ML+Engineer+%2F+Full-Stack+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,10 +24,10 @@
 class Santosh:
     def __init__(self):
         self.name     = "Santosh Suresh Madannavar"
-        self.role     = "Final Year CSE Student @ MMEC Belagavi"
-        self.passion  = ["AI/ML", "Deep Learning", "Real-world Problem Solving"]
-        self.stack    = ["Python", "Flask", "Django", "React", "Scikit-learn", "TensorFlow"]
-        self.focus    = "AI for Agriculture, Security & Automation"
+        self.role     = "CSE Graduate @ MMEC Belagavi (2026)"
+        self.passion  = ["AI/ML", "Generative AI", "Agentic Systems", "Real-world Problem Solving"]
+        self.stack    = ["Python", "Flask", "Django", "React", "XGBoost", "scikit-learn", "LangChain"]
+        self.focus    = "Applied GenAI, ML Pipelines & Full-Stack Systems"
         self.location = "Belagavi, Karnataka 🇮🇳"
         self.email    = "santoshmadannavar@gmail.com"
 
@@ -35,14 +35,46 @@ class Santosh:
         return "Code. Learn. Repeat. 🚀"
 ```
 
-- 🎓 **B.E. CSE** at Maratha Mandal's Engineering College, Belagavi — Class of 2026
-- 🤖 Building AI models with **TensorFlow, Scikit-learn & XGBoost**
-- 🔍 Expert in **Explainable AI (SHAP)** for transparent, trustworthy ML
+- 🎓 **B.E. CSE Graduate** — Maratha Mandal's Engineering College, Belagavi (CGPA: 8.67/10)
+- 💼 Data Science Intern @ **EchoBrains Technologies** — built end-to-end ML pipelines & deployed them as Flask REST APIs
+- 🤖 AI Fellow — **VTU Bharat Unnati (TechLeap) Program**, recognized as a **top fellow** for Generative AI & Agentic workflow delivery
+- 🔍 Applied hands-on with **LangChain, RAG, and LLM-powered agentic applications**
 - 🌐 Full-stack deployments via **Flask, Django & React** — I ship products, not just notebooks
-- 📈 Currently working on **AI for Agriculture, Cybersecurity & EV**
-- 💬 Ask me about: **ML pipelines, Flask APIs, Computer Vision, Full-Stack Development**
+- 💬 Ask me about: **ML pipelines, RAG/LangChain, Flask APIs, Full-Stack Development**
 
 <br clear="right"/>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Data Science Intern**
+*EchoBrains Technologies Pvt. Ltd.* — Bengaluru
+`Feb 2026 – May 2026`
+
+- Engineered 3 end-to-end ML pipelines (ingestion → feature engineering → training → deployment)
+- Achieved a **15% accuracy improvement** via hyperparameter tuning & cross-validation
+- Deployed models as production-ready **Flask REST APIs** for real-time inference
+- Built dashboards with **Matplotlib/Seaborn** to surface business insights
+
+</td>
+<td width="50%" valign="top">
+
+**Artificial Intelligence Fellow**
+*LearnersByte / ExpertPedia — Bharat Unnati TechLeap Program (VTU)*
+`2025 – 2026`
+
+- Selected for a competitive **4-month applied AI fellowship**, one of a limited cohort
+- Built context-aware, multi-step **agentic applications** using **LangChain, RAG & LLM APIs**
+- Recognized as a **top fellow** for technical delivery & professional conduct
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -52,12 +84,12 @@ class Santosh:
 <summary><b>❄️ Cold Weather EV Range Degradation Modeler</b></summary>
 <br>
 
-> AI & ML powered web app that predicts Electric Vehicle (EV) range degradation in cold weather conditions using weather analysis and machine learning algorithms.
+> End-to-end ML web app predicting EV battery range degradation in cold weather, achieving **90%+ model accuracy**.
 
 **Key Features**
-- Gradient-boosted (XGBoost) regression model trained on weather + battery telemetry patterns
-- SHAP-based explainability layer — shows *which* factors (temperature, wind chill, battery age) are driving the predicted range loss, not just a final number
-- Interactive Flask dashboard where a user inputs trip/weather conditions and gets a live degradation estimate
+- XGBoost regression with extensive feature engineering on climate + telemetry datasets
+- SHAP-based explainability — shows *which* factors (temperature, wind chill, battery age) drive the predicted range loss
+- Flask REST API backend with a responsive HTML/CSS/JS frontend for real-time inference
 
 | | |
 |---|---|
@@ -69,20 +101,20 @@ class Santosh:
 </details>
 
 <details>
-<summary><b>📢 Social Media Ads Platform</b></summary>
+<summary><b>📢 Unified Social Media Ads Platform</b></summary>
 <br>
 
-> Unified advertising dashboard to publish & schedule ads across Facebook, Instagram, Twitter/X, LinkedIn, TikTok & Pinterest from a single platform.
+> Multi-platform advertising dashboard supporting ad creation, publishing & scheduling across 6 platforms from a single interface.
 
 **Key Features**
-- OAuth-based secure account linking across six ad platforms
-- Central scheduling engine so campaigns don't need six separate logins/dashboards
-- REST API layer abstracting each platform's individual ad API into one consistent interface
+- OAuth 2.0 authentication + 6 integrated third-party REST APIs for cross-platform campaign management
+- Modular Flask backend with SQLite persistence, designed for easy extensibility to new platforms
+- Central scheduling engine to cut manual ad-management overhead
 
 | | |
 |---|---|
 | 🔗 **Repo** | [social-media-ads-platform](https://github.com/Santosh02411/social-media-ads-platform) |
-| 🔑 **Auth** | OAuth, REST APIs |
+| 🔑 **Auth** | OAuth 2.0, REST APIs |
 | 🌐 **Stack** | Python, Flask, HTML/CSS/JS |
 | 🗄️ **DB** | SQLite |
 
@@ -92,12 +124,12 @@ class Santosh:
 <summary><b>🛡️ Malware Detection Using Machine Learning</b></summary>
 <br>
 
-> ML-based cybersecurity model to detect malware with Explainable AI for enhanced security awareness and interpretability.
+> Cybersecurity ML pipeline for detecting & classifying malware, achieving high-precision threat identification.
 
 **Key Features**
-- Ensemble detection using XGBoost & Random Forest for high accuracy on malware feature sets
-- SHAP explainability so every flag comes with a human-readable reason — cuts down analyst investigation time
-- Designed for security-awareness use cases, not just a black-box "malicious/clean" flag
+- XGBoost & Random Forest ensemble trained on real-world security datasets
+- SHAP-based Explainable AI for actionable threat-cause analysis
+- Deployed as a Flask web app with a file-upload interface for real-time scanning
 
 | | |
 |---|---|
@@ -112,11 +144,11 @@ class Santosh:
 <summary><b>🧮 Formula Forge — AI Problem Solver</b></summary>
 <br>
 
-> AI-powered web app that solves mathematics, science, and engineering problems with detailed step-by-step solutions.
+> AI-powered web app solving math/science/engineering problems with detailed step-by-step solutions.
 
 **Key Features**
 - Google Gemini API integration for step-by-step reasoning, not just final answers
-- Modern React + TypeScript frontend built with Vite for fast dev/build cycles
+- Modern React + TypeScript frontend built with Vite
 - Node.js backend handling prompt orchestration and response formatting
 
 | | |
@@ -134,9 +166,9 @@ class Santosh:
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏥 [Quick Aid](https://github.com/Santosh02411/Quick-Aid) | AI Medical Assistant for real-time injury detection via computer vision, aimed at quick triage guidance when help isn't immediately reachable | Python, Flask, OpenCV, ML |
-| 💳 [FraudGuard](https://github.com/Santosh02411/fraudguard) | Fraud detection system using ML & data analysis to flag suspicious transactions before approval | Python, Scikit-learn, Flask, SQLite |
-| 🌱 [Krushi](https://github.com/Santosh02411/krushi) | AI platform for crop selection & farmer advisory using soil/climate data instead of guesswork | Python, Flask, Scikit-learn, Pandas |
+| 🏥 [Quick Aid](https://github.com/Santosh02411/Quick-Aid) | AI Medical Assistant for real-time injury detection via computer vision | Python, Flask, OpenCV, ML |
+| 💳 [FraudGuard](https://github.com/Santosh02411/fraudguard) | Fraud detection system flagging suspicious transactions before approval | Python, Scikit-learn, Flask, SQLite |
+| 🌱 [Krushi](https://github.com/Santosh02411/krushi) | AI platform for crop selection & farmer advisory using soil/climate data | Python, Flask, Scikit-learn, Pandas |
 
 ---
 
@@ -146,38 +178,77 @@ class Santosh:
 
 ![Languages](https://img.shields.io/badge/Languages-7c3aed?style=for-the-badge&labelColor=1e1b4b)
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,html,css,ts&theme=dark&perline=9" width="480"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,html,css&theme=dark&perline=9" width="420"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="55"/>
 
 <br/><br/>
 
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML%20%2F%20Deep%20Learning-7c3aed?style=for-the-badge&labelColor=1e1b4b)
+![GenAI](https://img.shields.io/badge/AI%20%2F%20ML%20%2F%20Generative%20AI-7c3aed?style=for-the-badge&labelColor=1e1b4b)
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,numpy,pandas&theme=dark&perline=9" width="350"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,langchain&theme=dark&perline=9" width="280"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white" height="55"/>
 &nbsp;
 <img src="https://img.shields.io/badge/SHAP-1a1a1a?style=for-the-badge" height="55"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RAG-6d28d9?style=for-the-badge" height="55"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Agentic_AI-6d28d9?style=for-the-badge" height="55"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Prompt_Engineering-6d28d9?style=for-the-badge" height="55"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="55"/>
 
 <br/><br/>
 
-![Frameworks](https://img.shields.io/badge/Frameworks%20%26%20Databases-7c3aed?style=for-the-badge&labelColor=1e1b4b)
+![Data](https://img.shields.io/badge/Data%20%26%20Visualization-7c3aed?style=for-the-badge&labelColor=1e1b4b)
 
-<img src="https://skillicons.dev/icons?i=flask,django,react,mysql,sqlite&theme=dark&perline=9" width="350"/>
+<img src="https://skillicons.dev/icons?i=pandas&theme=dark&perline=9" width="55"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="55"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" height="55"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" height="55"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="55"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="55"/>
 
 <br/><br/>
 
-![Tools](https://img.shields.io/badge/Tools%20%26%20Platforms-7c3aed?style=for-the-badge&labelColor=1e1b4b)
+![Frameworks](https://img.shields.io/badge/Web%20%26%20Backend-7c3aed?style=for-the-badge&labelColor=1e1b4b)
 
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,gcp&theme=dark&perline=9" width="350"/>
+<img src="https://skillicons.dev/icons?i=flask,django,react,nodejs,mysql,sqlite&theme=dark&perline=9" width="420"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="55"/>
+
+<br/><br/>
+
+![Tools](https://img.shields.io/badge/Cloud%20%26%20Tools-7c3aed?style=for-the-badge&labelColor=1e1b4b)
+
+<img src="https://skillicons.dev/icons?i=git,github,gcp,jupyter,vscode&theme=dark&perline=9" width="350"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/IBM_Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="55"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="55"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="55"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="55"/>
 
 </div>
+
 ---
 
-## 🗺️ Currently Building Toward
+## 🎓 Certifications
 
-- 🔧 Production-grade **FastAPI** services alongside Flask/Django work
-- 🏗️ Deeper **system design** — the gap between "runs on my laptop" and "survives real traffic"
-- 🌍 Contributing to an **open-source** ML or dev-tools project
+- **Getting Started with Artificial Intelligence** — IBM SkillsBuild
+- **Retrieval Augmented Generation with LangChain** — Adobe Learning Manager
+- **Machine Learning SkillUp** — Simplilearn
+- **The Ultimate Job Ready Data Science Course** — CodeWithHarry
+- **Journey to Cloud: Envisioning Your Solution** — IBM SkillsBuild
 
 ---
 
