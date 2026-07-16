@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Santosh%20Suresh%20Madannavar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20turn%20messy%20real-world%20problems%20into%20working%20software&descAlignY=55&descSize=16&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Santosh%20Suresh%20Madannavar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&descColor=a78bfa" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Final-Year+CSE+%40+MMEC+Belagavi+(2026);AI%2FML+%2B+Full-Stack+Engineer;I+ship%2C+not+just+notebook;Flask+%C2%B7+Django+%C2%B7+React+%C2%B7+TensorFlow;Currently%3A+open+to+SDE+%2F+Full-Stack+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Final-Year+CSE+Student+%40+MMEC+Belagavi;AI+%2F+ML+%2F+Deep+Learning+Enthusiast;Building+Real-World+AI+Solutions;Flask+%C2%B7+Django+%C2%B7+React+%C2%B7+TensorFlow;Open+to+Full-Stack+%2F+Backend+%2F+SDE+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,13 +14,11 @@
 
 </div>
 
-<br/>
+---
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 👋 About Me
-
-I don't build things because they're trendy — I build them because something around me is inefficient. That's the thread running through every project below: **find a real gap → model it → ship it as something people can actually click on.**
+### 🧑‍💻 About Me
 
 ```python
 class Santosh:
@@ -30,80 +28,43 @@ class Santosh:
         self.passion  = ["AI/ML", "Deep Learning", "Real-world Problem Solving"]
         self.stack    = ["Python", "Flask", "Django", "React", "Scikit-learn", "TensorFlow"]
         self.focus    = "AI for Agriculture, Security & Automation"
-        self.status   = "🟢 open to Full-Stack / Backend / SDE roles"
+        self.location = "Belagavi, Karnataka 🇮🇳"
         self.email    = "santoshmadannavar@gmail.com"
 
     def motto(self):
         return "Code. Learn. Repeat. 🚀"
 ```
 
-- 🎓 **B.E. CSE** at Maratha Mandal's Engineering College, Belagavi &nbsp;·&nbsp; Class of 2026
+- 🎓 **B.E. CSE** at Maratha Mandal's Engineering College, Belagavi — Class of 2026
 - 🤖 Building AI models with **TensorFlow, Scikit-learn & XGBoost**
-- 🔍 Obsessed with **Explainable AI (SHAP)** — I don't trust a model I can't explain
-- 🌐 Shipping full-stack products via **Flask, Django & React**, not just notebooks
-- 📈 Currently building in **AI for Agriculture, Cybersecurity & EV**
-- 💬 Ask me about: **ML pipelines, Flask APIs, Computer Vision**
+- 🔍 Expert in **Explainable AI (SHAP)** for transparent, trustworthy ML
+- 🌐 Full-stack deployments via **Flask, Django & React** — I ship products, not just notebooks
+- 📈 Currently working on **AI for Agriculture, Cybersecurity & EV**
+- 💬 Ask me about: **ML pipelines, Flask APIs, Computer Vision, Full-Stack Development**
 
 <br clear="right"/>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Major Projects
 
 <details open>
 <summary><b>❄️ Cold Weather EV Range Degradation Modeler</b></summary>
 <br>
 
-Predicts real-world EV range loss in cold weather — because manufacturer estimates ignore it, and that gap fuels range anxiety. Every prediction comes with a SHAP breakdown of *why*, not just a number.
+> AI & ML powered web app that predicts Electric Vehicle (EV) range degradation in cold weather conditions using weather analysis and machine learning algorithms.
 
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-black?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+**Key Features**
+- Gradient-boosted (XGBoost) regression model trained on weather + battery telemetry patterns
+- SHAP-based explainability layer — shows *which* factors (temperature, wind chill, battery age) are driving the predicted range loss, not just a final number
+- Interactive Flask dashboard where a user inputs trip/weather conditions and gets a live degradation estimate
 
-**[→ View Repo](https://github.com/Santosh02411/cold_weather_EV_range_degradation)**
-
-</details>
-
-<details>
-<summary><b>🌱 Krushi — AI Crop Advisory for Farmers</b></summary>
-<br>
-
-Recommends crops from soil & climate data instead of guesswork — built so a farmer, not a data scientist, can actually use it.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**[→ View Repo](https://github.com/Santosh02411/krushi)**
-
-</details>
-
-<details>
-<summary><b>🛡️ Explainable Malware Detection</b></summary>
-<br>
-
-Most ML malware detectors are black boxes. Mine pairs XGBoost/Random Forest with SHAP so every flag comes with a human-readable reason.
-
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-black?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**[→ View Repo](https://github.com/Santosh02411/Malware-detection)**
-
-</details>
-
-<details>
-<summary><b>🧮 Formula Forge — AI Problem Solver</b></summary>
-<br>
-
-Walks through math/science/engineering problems step-by-step using the Gemini API, instead of just spitting out a final answer.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**[→ View Repo](https://github.com/Santosh02411/Formula-Forge)**
+| | |
+|---|---|
+| 🔗 **Repo** | [cold_weather_EV_range_degradation](https://github.com/Santosh02411/cold_weather_EV_range_degradation) |
+| 🧠 **ML** | XGBoost, Scikit-learn, SHAP Explainability |
+| 🌐 **Web** | Python, Flask, HTML/CSS/JS |
+| 📦 **Data** | Pandas, NumPy |
 
 </details>
 
@@ -111,22 +72,71 @@ Walks through math/science/engineering problems step-by-step using the Gemini AP
 <summary><b>📢 Social Media Ads Platform</b></summary>
 <br>
 
-One dashboard to publish & schedule ads across Facebook, Instagram, X, LinkedIn, TikTok & Pinterest — instead of six separate logins.
+> Unified advertising dashboard to publish & schedule ads across Facebook, Instagram, Twitter/X, LinkedIn, TikTok & Pinterest from a single platform.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=flat-square&logo=auth0&logoColor=white)
+**Key Features**
+- OAuth-based secure account linking across six ad platforms
+- Central scheduling engine so campaigns don't need six separate logins/dashboards
+- REST API layer abstracting each platform's individual ad API into one consistent interface
 
-**[→ View Repo](https://github.com/Santosh02411/social-media-ads-platform)**
+| | |
+|---|---|
+| 🔗 **Repo** | [social-media-ads-platform](https://github.com/Santosh02411/social-media-ads-platform) |
+| 🔑 **Auth** | OAuth, REST APIs |
+| 🌐 **Stack** | Python, Flask, HTML/CSS/JS |
+| 🗄️ **DB** | SQLite |
 
 </details>
 
-### 🌱 Mini Projects
+<details>
+<summary><b>🛡️ Malware Detection Using Machine Learning</b></summary>
+<br>
 
-| Project | What it solves |
+> ML-based cybersecurity model to detect malware with Explainable AI for enhanced security awareness and interpretability.
+
+**Key Features**
+- Ensemble detection using XGBoost & Random Forest for high accuracy on malware feature sets
+- SHAP explainability so every flag comes with a human-readable reason — cuts down analyst investigation time
+- Designed for security-awareness use cases, not just a black-box "malicious/clean" flag
+
+| | |
 |---|---|
-| 🏥 [**Quick Aid**](https://github.com/Santosh02411/Quick-Aid) | Real-time injury detection via computer vision |
-| 💳 [**FraudGuard**](https://github.com/Santosh02411/fraudguard) | Flags suspicious transactions before approval |
+| 🔗 **Repo** | [Malware-detection](https://github.com/Santosh02411/Malware-detection) |
+| 🧠 **ML** | XGBoost, Random Forest, Scikit-learn |
+| 🔍 **XAI** | SHAP, Explainable AI |
+| 🌐 **Web** | Flask, Pandas, NumPy |
+
+</details>
+
+<details>
+<summary><b>🧮 Formula Forge — AI Problem Solver</b></summary>
+<br>
+
+> AI-powered web app that solves mathematics, science, and engineering problems with detailed step-by-step solutions.
+
+**Key Features**
+- Google Gemini API integration for step-by-step reasoning, not just final answers
+- Modern React + TypeScript frontend built with Vite for fast dev/build cycles
+- Node.js backend handling prompt orchestration and response formatting
+
+| | |
+|---|---|
+| 🔗 **Repo** | [Formula-Forge](https://github.com/Santosh02411/Formula-Forge) |
+| 🤖 **AI** | Google Gemini API |
+| ⚛️ **Frontend** | React, TypeScript, Vite |
+| 🛠️ **Backend** | Node.js |
+
+</details>
+
+---
+
+## 🌱 Mini Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🏥 [Quick Aid](https://github.com/Santosh02411/Quick-Aid) | AI Medical Assistant for real-time injury detection via computer vision, aimed at quick triage guidance when help isn't immediately reachable | Python, Flask, OpenCV, ML |
+| 💳 [FraudGuard](https://github.com/Santosh02411/fraudguard) | Fraud detection system using ML & data analysis to flag suspicious transactions before approval | Python, Scikit-learn, Flask, SQLite |
+| 🌱 [Krushi](https://github.com/Santosh02411/krushi) | AI platform for crop selection & farmer advisory using soil/climate data instead of guesswork | Python, Flask, Scikit-learn, Pandas |
 
 ---
 
@@ -135,70 +145,88 @@ One dashboard to publish & schedule ads across Facebook, Instagram, X, LinkedIn,
 <div align="center">
 
 **Languages**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,html,css,ts&theme=dark" />
 
 **AI / ML / Deep Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,numpy,pandas&theme=dark" />
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white" height="47"/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/SHAP-1a1a1a?style=for-the-badge" height="47"/>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-1a1a1a?style=for-the-badge)
 
 **Frameworks & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=flask,django,react,mysql,sqlite&theme=dark" />
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Tools & Platforms**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,gcp&theme=dark" />
 
 </div>
 
 ---
 
-## 🗺️ Building Toward
+## 🗺️ Currently Building Toward
 
-- [ ] Ship production-grade **FastAPI** services, not just Flask prototypes
-- [ ] Go deeper on **system design** — the gap between "runs on my laptop" and "survives real traffic"
-- [ ] Contribute to an **open-source** ML or dev-tools project
+- 🔧 Production-grade **FastAPI** services alongside Flask/Django work
+- 🏗️ Deeper **system design** — the gap between "runs on my laptop" and "survives real traffic"
+- 🌍 Contributing to an **open-source** ML or dev-tools project
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santosh02411&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh02411&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
 </div>
 
 <div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh02411&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" />
+
 </div>
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santosh02411&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true&days=60" />
+
 </div>
 
 <!--
-Animated contribution "snake" (real, moving animation): https://github.com/Platane/snk
-Add snake.yml (provided separately) to .github/workflows/, let it run once, then uncomment:
+🐍 Bonus (real animated motion): a moving contribution "snake"
+Add the provided snake.yml to .github/workflows/, let it run once, then uncomment:
 <div align="center"><img src="https://raw.githubusercontent.com/Santosh02411/Santosh02411/output/github-contribution-grid-snake-dark.svg" /></div>
 -->
 
 <div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=Santosh02411&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosh-madannavar-3ba5a7261/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santosh02411)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoshmadannavar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santosh%20Madannavar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosh-madannavar-3ba5a7261/)
+[![GitHub](https://img.shields.io/badge/GitHub-Santosh02411-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santosh02411)
+[![Email](https://img.shields.io/badge/Email-santoshmadannavar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoshmadannavar@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Code.%20Learn.%20Repeat.&fontSize=22&fontColor=a78bfa&animation=fadeIn&fontAlignY=65"/>
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=⚡%20Code.%20Learn.%20Repeat.%20🚀&fontSize=22&fontColor=a78bfa&animation=fadeIn&fontAlignY=65"/>
