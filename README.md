@@ -310,13 +310,6 @@ Add the provided snake.yml to .github/workflows/, let it run once, then uncommen
 <a href="mailto:santoshmadannavar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a> [![Email](https://img.shields.io/badge/Email-santoshmadannavar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoshmadannavar@gmail.com)
 
 </div>
-<div align="center">
 
-<a href="https://www.linkedin.com/in/santosh-madannavar-3ba5a7261/"><img src="https://skillicons.dev/icons?i=linkedin" height="48"/></a>
-<a href="https://github.com/Santosh02411"><img src="https://skillicons.dev/icons?i=github" height="48"/></a>
-<a href="mailto:santoshmadannavar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48"/></a>
-
-</div>
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=⚡%20Code.%20Learn.%20Repeat.%20🚀&fontSize=22&fontColor=a78bfa&animation=fadeIn&fontAlignY=65"/>
