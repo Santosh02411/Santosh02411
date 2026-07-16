@@ -146,29 +146,21 @@ class Santosh:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,html,css,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,html,css,ts&theme=dark&perline=9" />
 
 **AI / ML / Deep Learning**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-1a1a1a?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,numpy,pandas&theme=dark&perline=9" />
+<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white&logoWidth=25" height="48"/>
+<img src="https://img.shields.io/badge/SHAP-1a1a1a?style=for-the-badge" height="48"/>
 
 **Frameworks & Databases**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flask,django,react,mysql,sqlite&theme=dark&perline=9" />
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,gcp&theme=dark&perline=9" />
 
 </div>
 
