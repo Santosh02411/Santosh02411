@@ -144,26 +144,33 @@ class Santosh:
 
 <div align="center">
 
-**Languages**
+![Languages](https://img.shields.io/badge/Languages-7c3aed?style=for-the-badge&labelColor=1e1b4b)
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,html,css,ts&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,html,css,ts&theme=dark&perline=9" width="480"/>
 
-**AI / ML / Deep Learning**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,numpy,pandas&theme=dark&perline=9" />
-<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white&logoWidth=25" height="48"/>
-<img src="https://img.shields.io/badge/SHAP-1a1a1a?style=for-the-badge" height="48"/>
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML%20%2F%20Deep%20Learning-7c3aed?style=for-the-badge&labelColor=1e1b4b)
 
-**Frameworks & Databases**
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,numpy,pandas&theme=dark&perline=9" width="350"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white" height="55"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SHAP-1a1a1a?style=for-the-badge" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=flask,django,react,mysql,sqlite&theme=dark&perline=9" />
+<br/><br/>
 
-**Tools & Platforms**
+![Frameworks](https://img.shields.io/badge/Frameworks%20%26%20Databases-7c3aed?style=for-the-badge&labelColor=1e1b4b)
 
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,gcp&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=flask,django,react,mysql,sqlite&theme=dark&perline=9" width="350"/>
+
+<br/><br/>
+
+![Tools](https://img.shields.io/badge/Tools%20%26%20Platforms-7c3aed?style=for-the-badge&labelColor=1e1b4b)
+
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,gcp&theme=dark&perline=9" width="350"/>
 
 </div>
-
 ---
 
 ## 🗺️ Currently Building Toward
