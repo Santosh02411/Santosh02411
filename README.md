@@ -166,7 +166,7 @@ class Santosh:
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏥 [Quick Aid](https://github.com/Santosh02411/Quick-Aid) | AI Medical Assistant for real-time injury detection via computer vision | Python, Flask, OpenCV, ML |
+| 🏥 [Quick Aid](https://github.com/Santosh02411/Quick-Aid) | An AI Medical Assistant for real-time injury detection via computer vision | Python, Flask, OpenCV, ML |
 | 💳 [FraudGuard](https://github.com/Santosh02411/fraudguard) | Fraud detection system flagging suspicious transactions before approval | Python, Scikit-learn, Flask, SQLite |
 | 🌱 [Krushi](https://github.com/Santosh02411/krushi) | AI platform for crop selection & farmer advisory using soil/climate data | Python, Flask, Scikit-learn, Pandas |
 
