@@ -295,8 +295,6 @@ Add the provided snake.yml to .github/workflows/, let it run once, then uncommen
 
 ## 📫 Let's Connect!
 
-
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/santosh-madannavar-3ba5a7261/"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santosh%20Madannavar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosh-madannavar-3ba5a7261/)
