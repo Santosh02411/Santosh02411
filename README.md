@@ -304,6 +304,6 @@ Add the provided snake.yml to .github/workflows/, let it run once, then uncommen
 <a href="mailto:santoshmadannavar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a> [![Email](https://img.shields.io/badge/Email-santoshmadannavar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoshmadannavar@gmail.com)
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&/>
+
 
 
