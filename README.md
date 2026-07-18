@@ -40,7 +40,7 @@ class Santosh:
 - 🤖 AI Fellow — **VTU Bharat Unnati (TechLeap) Program**, recognized as a **top fellow** for Generative AI & Agentic workflow delivery
 - 🔍 Applied hands-on with **LangChain, RAG, and LLM-powered agentic applications**
 - 🌐 Full-stack deployments via **Flask, Django & React** — I ship products, not just notebooks
-- 💬 Ask me about: **ML pipelines, RAG/LangChain, Flask APIs, Full-Stack Development**
+- 💬 Ask me about: **ML pipelines, RAG/LangChain, Flask APIs, Web development ,Full-Stack Development**
 
 <br clear="right"/>
 
