@@ -47,13 +47,11 @@ class Santosh:
 
 <div align="center">
 
-### 📦 Delivery Sync
-**Offline-First Delivery Status Sync**
+## 🚀 Currently Working On
 
-Building an offline-first delivery management system where delivery agents can continue updating deliveries without internet connectivity. Data is automatically synchronized with the server once the device comes back online.
-
-🔄 Offline Storage • ⚡ Background Sync • 📱 Real-time Delivery Tracking
-
+- 📦 **Delivery Sync** — Offline-First Delivery Status Sync
+  - `Python` • `Flask` • `SQLite` • `Offline Sync`
+  - 🔗 https://github.com/Santosh02411/Delivery_Sync
 <a href="https://github.com/Santosh02411/Delivery_Sync">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
