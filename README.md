@@ -42,15 +42,21 @@ class Santosh:
 - 🌐 Full-stack deployments via **Flask, Django & React** — I ship products, not just notebooks
 - 💬 Ask me about: **ML pipelines, RAG/LangChain, Flask APIs, Web development ,Full-Stack Development**
 <br clear="right"/>
+
 ## 🚀 Currently Working On
 
 <div align="center">
 
-### 📦 Delivery Sync – Offline-First Delivery Status Sync
+### 📦 Delivery Sync
+**Offline-First Delivery Status Sync**
 
-Building an **offline-first delivery management system** that allows delivery agents to continue working even without an internet connection. Data is stored locally and automatically synchronized with the server once connectivity is restored.
+Building an offline-first delivery management system where delivery agents can continue updating deliveries without internet connectivity. Data is automatically synchronized with the server once the device comes back online.
 
-🔗 **Project:** https://github.com/Santosh02411/Delivery_Sync
+🔄 Offline Storage • ⚡ Background Sync • 📱 Real-time Delivery Tracking
+
+<a href="https://github.com/Santosh02411/Delivery_Sync">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 ---
