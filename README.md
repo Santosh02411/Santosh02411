@@ -41,9 +41,18 @@ class Santosh:
 - 🔍 Applied hands-on with **LangChain, RAG, and LLM-powered agentic applications**
 - 🌐 Full-stack deployments via **Flask, Django & React** — I ship products, not just notebooks
 - 💬 Ask me about: **ML pipelines, RAG/LangChain, Flask APIs, Web development ,Full-Stack Development**
-
 <br clear="right"/>
+## 🚀 Currently Working On
 
+<div align="center">
+
+### 📦 Delivery Sync – Offline-First Delivery Status Sync
+
+Building an **offline-first delivery management system** that allows delivery agents to continue working even without an internet connection. Data is stored locally and automatically synchronized with the server once connectivity is restored.
+
+🔗 **Project:** https://github.com/Santosh02411/Delivery_Sync
+
+</div>
 ---
 
 ## 💼 Experience
