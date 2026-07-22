@@ -43,20 +43,25 @@ class Santosh:
 - 💬 Ask me about: **ML pipelines, RAG/LangChain, Flask APIs, Web development ,Full-Stack Development**
 <br clear="right"/>
 
-## 🚀 Currently Working On
+## 🔨 Currently Working On
 
 <div align="center">
 
-## 🚀 Currently Working On
+### 📦 [Delivery_Sync](https://github.com/Santosh02411/Delivery_Sync) — Offline-First Delivery Status Sync
 
-- 📦 **Delivery Sync** — Offline-First Delivery Status Sync
-  - `Python` • `Flask` • `SQLite` • `Offline Sync`
-  - 🔗 https://github.com/Santosh02411/Delivery_Sync
-<a href="https://github.com/Santosh02411/Delivery_Sync">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**The problem:** Delivery updates fail the moment a rider loses signal in a low-network area — status changes get lost instead of just delayed.
+
+**What I'm building:** An offline-first app that queues status updates locally and syncs them the moment connectivity returns, with conflict resolution for updates made while offline.
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-FF6F00?style=for-the-badge&logo=html5&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+🚧 **Status:** In active development — building the offline sync & conflict-resolution logic
 
 </div>
+
 ---
 
 ## 💼 Experience
