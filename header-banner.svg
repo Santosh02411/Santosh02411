@@ -1,0 +1,127 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="55%" stop-color="#1a1642"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#a78bfa" stroke-width="1" opacity="0.08"/>
+    </pattern>
+    <linearGradient id="scan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a78bfa" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- ambient scan sweep -->
+  <rect x="-260" y="0" width="260" height="300" fill="url(#scan)">
+    <animateTransform attributeName="transform" type="translate" from="0,0" to="1460,0" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- corner registration marks, fade in on load -->
+  <g stroke="#a78bfa" stroke-width="1.3" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.6" dur="0.8s" begin="0.1s" fill="freeze"/>
+    <line x1="14" y1="26" x2="38" y2="26"/><line x1="26" y1="14" x2="26" y2="38"/><circle cx="26" cy="26" r="8" fill="none"/>
+  </g>
+  <g stroke="#a78bfa" stroke-width="1.3" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.6" dur="0.8s" begin="0.3s" fill="freeze"/>
+    <line x1="1162" y1="26" x2="1186" y2="26"/><line x1="1174" y1="14" x2="1174" y2="38"/><circle cx="1174" cy="26" r="8" fill="none"/>
+  </g>
+  <g stroke="#a78bfa" stroke-width="1.3" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.6" dur="0.8s" begin="0.5s" fill="freeze"/>
+    <line x1="14" y1="274" x2="38" y2="274"/><line x1="26" y1="262" x2="26" y2="286"/><circle cx="26" cy="274" r="8" fill="none"/>
+  </g>
+  <g stroke="#a78bfa" stroke-width="1.3" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.6" dur="0.8s" begin="0.7s" fill="freeze"/>
+    <line x1="1162" y1="274" x2="1186" y2="274"/><line x1="1174" y1="262" x2="1174" y2="286"/><circle cx="1174" cy="274" r="8" fill="none"/>
+  </g>
+
+  <!-- ============ identity block (large type) ============ -->
+  <text x="62" y="52" font-family="Consolas, 'JetBrains Mono', monospace" font-size="17"
+        letter-spacing="4" fill="#a78bfa" opacity="0.9">SPEC — SOFTWARE ENGINEER</text>
+
+  <text x="60" y="118" font-family="Verdana, 'Segoe UI', sans-serif" font-size="52" font-weight="700"
+        letter-spacing="0.5" fill="#f4f2fb">SANTOSH SURESH</text>
+  <text x="60" y="172" font-family="Verdana, 'Segoe UI', sans-serif" font-size="52" font-weight="700"
+        letter-spacing="0.5" fill="#c4b5fd">MADANNAVAR</text>
+
+  <line x1="62" y1="188" x2="580" y2="188" stroke="#a78bfa" stroke-width="2.5"
+        stroke-dasharray="518" stroke-dashoffset="518">
+    <animate attributeName="stroke-dashoffset" from="518" to="0" dur="1.6s" fill="freeze"/>
+  </line>
+
+  <text x="62" y="220" font-family="Georgia, serif" font-style="italic" font-size="19" fill="#c9c3e0" opacity="0.9">
+    B.E. CSE — Class of 2026
+  </text>
+  <text x="62" y="252" font-family="Consolas, 'JetBrains Mono', monospace" font-size="16" letter-spacing="1" fill="#8b83b0">
+    Open to SDE / Full-Stack / ML Engineer roles
+  </text>
+
+  <!-- ============ three equal, animated dimension callouts ============ -->
+  <line x1="700" y1="42" x2="700" y2="168" stroke="#8b83b0" stroke-width="1" stroke-dasharray="3,4" opacity="0.6"/>
+
+  <g stroke-width="1.6">
+    <path d="M700,60  H748" stroke="#a78bfa" stroke-dasharray="48" stroke-dashoffset="48">
+      <animate attributeName="stroke-dashoffset" from="48" to="0" dur="0.7s" begin="0.9s" fill="freeze"/>
+    </path>
+    <path d="M700,105 H748" stroke="#22d3ee" stroke-dasharray="48" stroke-dashoffset="48">
+      <animate attributeName="stroke-dashoffset" from="48" to="0" dur="0.7s" begin="1.15s" fill="freeze"/>
+    </path>
+    <path d="M700,150 H748" stroke="#f472b6" stroke-dasharray="48" stroke-dashoffset="48">
+      <animate attributeName="stroke-dashoffset" from="48" to="0" dur="0.7s" begin="1.4s" fill="freeze"/>
+    </path>
+  </g>
+
+  <g>
+    <circle cx="700" cy="60" r="4.5" fill="#a78bfa">
+      <animate attributeName="r" values="4.5;7;4.5" dur="2.4s" begin="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.5;1" dur="2.4s" begin="0.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="105" r="4.5" fill="#22d3ee">
+      <animate attributeName="r" values="4.5;7;4.5" dur="2.4s" begin="1.15s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.5;1" dur="2.4s" begin="1.15s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="150" r="4.5" fill="#f472b6">
+      <animate attributeName="r" values="4.5;7;4.5" dur="2.4s" begin="1.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.5;1" dur="2.4s" begin="1.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g font-family="Consolas, 'JetBrains Mono', monospace" font-size="19" letter-spacing="1.5" font-weight="700">
+    <text x="758" y="66"  fill="#a78bfa">MACHINE LEARNING</text>
+    <text x="758" y="111" fill="#22d3ee">FULL-STACK / WEB</text>
+    <text x="758" y="156" fill="#f472b6">GENERATIVE AI</text>
+  </g>
+
+  <!-- ============ drafting title block, bottom right ============ -->
+  <g transform="translate(700,192)">
+    <rect x="0" y="0" width="450" height="92" fill="none" stroke="#a78bfa" stroke-width="1.2" opacity="0.55"/>
+    <line x1="150" y1="0" x2="150" y2="92" stroke="#a78bfa" stroke-width="1" opacity="0.35"/>
+    <line x1="0" y1="23" x2="450" y2="23" stroke="#a78bfa" stroke-width="1" opacity="0.35"/>
+    <line x1="0" y1="46" x2="450" y2="46" stroke="#a78bfa" stroke-width="1" opacity="0.35"/>
+    <line x1="0" y1="69" x2="450" y2="69" stroke="#a78bfa" stroke-width="1" opacity="0.35"/>
+
+    <g font-family="Consolas, 'JetBrains Mono', monospace" font-size="15" letter-spacing="1">
+      <text x="12" y="16" fill="#8b83b0">NAME</text>
+      <text x="162" y="16" fill="#f4f2fb">S.S. MADANNAVAR</text>
+
+      <text x="12" y="39" fill="#8b83b0">DISCIPLINE</text>
+      <text x="162" y="39" fill="#f4f2fb">CSE — GRAD 2026</text>
+
+      <text x="12" y="62" fill="#8b83b0">ROLES</text>
+      <text x="162" y="62" fill="#f4f2fb">SDE / FULL-STACK / ML</text>
+
+      <text x="12" y="85" fill="#8b83b0">STATUS</text>
+      <circle cx="170" cy="80" r="5" fill="#22c55e">
+        <animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="5;6.5;5" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="184" y="85" fill="#22c55e">OPEN TO WORK</text>
+    </g>
+  </g>
+</svg>
