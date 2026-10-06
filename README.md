@@ -272,7 +272,7 @@ class Santosh:
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh02411&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" />
+<img src="https://streak-stats.demolab.com/?user=Santosh02411&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" />
 </div>
 
 
