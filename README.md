@@ -276,18 +276,12 @@ class Santosh:
 </div>
 
 
-
-
-
-
-
-<details>
-<summary align="center"><b>📅 last few months Activity — click to expand</b></summary>
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santosh02411&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true&days=90" />
 </div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/SantoshM-360/SantoshM-360/output/activity-graph.svg" alt="Contribution activity graph" />
+</div>
+
+
 
 </details>
 
